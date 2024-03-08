@@ -2,6 +2,9 @@
 
 In this repository you will find the data, results and code for the thesis "Multi-modal column and reading order detection in complex documents".
 
+An overview of results can be found in the following spreadsheet:
+https://docs.google.com/spreadsheets/d/1JQ_O_-92LuUDJAUhHivqCa7fyFrRa4wz5Jbq1YNDS7I/edit?usp=sharing
+
 ## ChatGPT_output_text
 
 Results from the ChatGPT evaluation, as txt files.
