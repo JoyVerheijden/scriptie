@@ -1,0 +1,39 @@
+Proﬁle
+Innovative and results-oriented Senior Software Developer with over 10 years of experience in software design, development, and integration. Proﬁcient in a diverse array of programming languages and tools. Adept at leading development teams to deliver complex projects from conception to implementation. Seeking to leverage expertise in software architecture and team leadership to drive successful projects and technological advancements at [Company Name].
+
+Contact
+(555) 123-4567
+john.doe@email.com
+1234 Maple Street | Anytown, NY 12345
+
+Work Experience
+Senior Software Developer
+XYZ Corporation
+06.2015 - 05.2015
+Designed and developed a multi-tiered web application using .NET and Angular, which became the company Associate
+
+Education
+Geen data gevonden
+Microsoft Certiﬁed: Azure Developer Associate
+Certiﬁed ScrumMaster (CSM)
+
+Skills
+Java
+C#
+Python
+JavaScript
+SQL
+Kotlin
+.NET
+Spring Boot
+React
+Angular
+
+Projects
+Open Source Contribution: React Dashboard Framework
+Contributed to the development of a highly customizable dashboard framework for React applications, enhancing extensibility and usability.
+
+Personal Project: Mobile Fitness App (Kotlin)
+Developed a cross-platform ﬁtness application using Kotlin and Flutter, focusing on user engagement and personalization.
+
+www.spadework-staﬃng.com

@@ -1,0 +1,54 @@
+                                                                                                                          
+                                                                                         Pete Shilling                    
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                                                                                                          
+                                   Proﬁle                                                                                 
+Contact                                                                                                                   
+                                                                                                                          
+                                   Geen data gevonden                                                                     
+(555) 123-4567                                                                                                            
+                                                                                                                          
+john.doe@email.com                                                                                                        
+                                   Education                                                                              
+1234 Maple Street, Anytown, NY                                                                                            
+12345                                                                                                                     
+                                       Geen data gevonden                                                                 
+                                                                                                                          
+                                                                                                                          
+                                   Work Experience                                                                        
+Skills                                                                                                                    
+                                                                                                                          
+                                       Senior Software Developer                                                          
+Java                                                                                                                      
+                                       06.2015 - 05.2015                                                                  
+C#                                                                                                                        
+                                       XYZ Corporation, City, State                                                       
+Python                                                                                                                    
+                                       Designed and developed a multi-tiered web application using .NET and Angular, which
+JavaScript                             became the company Associate                                                       
+                                                                                                                          
+SQL                                                                                                                       
+                                       Microsoft Certiﬁed: Azure Developer Associate                                      
+Kotlin                                                                                                                    
+                                                                                                                          
+.NET                                   Certiﬁed ScrumMaster (CSM)                                                         
+                                                                                                                          
+Spring Boot                                                                                                               
+                                                                                                                          
+React                                                                                                                     
+                                   Projects                                                                               
+Angular                                                                                                                   
+                                       Open Source Contribution : React Dashboard  Framework                              
+                                                                                                                          
+                                       Contributed to the development of a highly customizable dashboard framework for    
+                                       React applications, enhancing extensibility and usability.                         
+Languages                                                                                                                 
+                                                                                                                          
+                                       Personal Project: Mobile Fitness App (Kotlin)                                      
+English                                                                                                                   
+                                       Developed a cross-platform ﬁtness application using Kotlin and Flutter, focusing on
+Spanish                                                                                                                   
+                                       user engagement and personalization.                                               
+                                                                                                                         
